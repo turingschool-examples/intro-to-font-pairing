@@ -8,9 +8,7 @@ tags: typography, design
 
 By the end of this lesson, you will know/be able to:
 
-* Understand how
-* Understand the different between serif and sans serif
-* Have an understanding of the structure of letterforms
+* Have a set of strategies to apply when looking for font pairings
 
 ### How to Make Good Font Pairings
 
