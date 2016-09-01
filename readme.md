@@ -20,13 +20,13 @@ It's hard enough to find one font that looks nice, so how in the world are we su
 
 The structure of the individual letterforms and how the work together is a key part of assessing prospective typefaces. We're looking at how the parts that come together to form an individual letter are approached, and how those parts come together in the letterforms creating a font.
 
-When assessing suitability for pairing, we can take two approaches: similarity and contrast in shape and form.
+When assessing suitability for pairing, we can take two approaches looking for similarity in shape and form can be a great place to get started.
+
+As a typography newbie, you'll likely have an easier time finding solid font pairs using the concept of similarity to guide your hunt, and as you begin to feel more confident in your familiarity with typography, you can make more adventurous pairings.
 
 #### Similarity
 
-When finding a pairing with similiar characteristics, we look for different typefaces (perhaps a sans-serif and a serif) that have similar approaches to the structure of the letters and how those letters combine to form words. What are the things that contribute to text set in different typefaces feeling like a cohesive whole rather than two separate entities?
-
-A few key elements to look for:
+When finding a font pairing with similar characteristics, we look for different typefaces (perhaps a sans-serif and a serif) that have similar approaches to the structure of the letters and how those letters combine to form words. What are some of the key things that contribute to different typefaces feeling cohesive rather than two separate entities?
 
 * **Cap height:** We want our font pairings to be the same height so they feel visually balanced. Think of it this way: you could overlay a capital letter set in both fonts and it would take up the same space.
 
@@ -36,11 +36,9 @@ A few key elements to look for:
 
 * **Apertures:** Apertures are the openings found in letters like _c_, _a_, and _e_. Open, airy apertures are highly legible and help readers quickly absorb content. Closed apertures are typically less legible, but may be more symmetrical. While we typically favor legibility, a high quality font with closed apertures can absolutely be used with great success, just be aware that it could have an impact on ease of reading and make layout choices appropriately. Look for similar openings in both your typefaces.
 
-* **Ascenders and Descenders** It can be surprising to see how many different ways an ascender or descender can be approached, both in style and 
+* **Letter Width** Like letter spacing, different fonts that have letters of similar widths will feel more closely related than ones that don't. For example, having a very narrow condensed font paired with a very wide font is likely to feel a bit awkward.
 
-
-
-
+* **Styles and Weight** Look for font families that include a true bold and italic set of fonts. You want options, so a good rule of thumb is to look for typefaces with at least 4 styles (usually regular, italic, bold, and bold italic). One of the most common, most terrible crimes against typography is to add a faux italic or bold to it. A true italic font has been specifically developed by the designer, where as a faux italic is physically stretching and warping the letterforms, losing the integrity and spirit of the font. Don't be a type criminal, just use better fonts.
 
 ### Resources
 
